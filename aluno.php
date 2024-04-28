@@ -36,7 +36,7 @@ $alunos = mysqli_query($conexao, $sql);
                 <th>Id</th>
                 <th>Nome</th>
                 <th>Data de nascimento</th>
-                <th>Cpf</th>
+                <th>CPF</th>
             </tr>
         </thead>
         <tbody>
