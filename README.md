@@ -1,7 +1,19 @@
 # escola-php
+##Descrição
+###Projeto de gestão escolar em php para aprender a linguagem
+ 
+ ##Pré-Requisitos
+ ###MySQL
+ ###PHP
+
+ ##Como rodar
+
+ 1. Criar banco de dados
  ```sql
 CREATE DATABASE `escola`
  ```
+
+2. Criar tabela Alunos
  ```sql
 CREATE TABLE `escola`.`alunos` (
   `id` int NOT NULL AUTO_INCREMENT,
@@ -11,7 +23,7 @@ CREATE TABLE `escola`.`alunos` (
   PRIMARY KEY (`id`)
 );
  ```
-
+3. Criar tabela Turmas
  ```sql
 CREATE TABLE `escola`.`turmas` (
   `ID` int NOT NULL AUTO_INCREMENT,
@@ -21,3 +33,8 @@ CREATE TABLE `escola`.`turmas` (
   PRIMARY KEY (`ID`)
 );
  ```
+
+4. Executar o comando no console na pasta raiz
+   ``` cmd
+   php -S localhost:8080
+   ```
