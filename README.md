@@ -1,5 +1,5 @@
 ## Descrição
-### Projeto de gestão escolar em php para aprender a linguagem
+Projeto de gestão escolar em php para aprender a linguagem
  
  ## Pré-Requisitos
  1. MySQL
