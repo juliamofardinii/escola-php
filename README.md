@@ -1,12 +1,12 @@
 # escola-php
-##Descrição
-###Projeto de gestão escolar em php para aprender a linguagem
+## Descrição
+### Projeto de gestão escolar em php para aprender a linguagem
  
- ##Pré-Requisitos
- ###MySQL
- ###PHP
+ ## Pré-Requisitos
+ 1. MySQL
+ 2. PHP
 
- ##Como rodar
+ ## Como rodar
 
  1. Criar banco de dados
  ```sql
