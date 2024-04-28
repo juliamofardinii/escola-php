@@ -1,4 +1,3 @@
-# escola-php
 ## Descrição
 ### Projeto de gestão escolar em php para aprender a linguagem
  
